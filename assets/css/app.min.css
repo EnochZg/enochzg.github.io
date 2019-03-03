@@ -1242,3 +1242,11 @@ a {
         font-size:16px
     }
 }
+.home-banner .header-img {
+    display:block;
+    position:absolute;
+    top:0;
+    left:0;
+    width:101%;
+    z-index:0
+}
