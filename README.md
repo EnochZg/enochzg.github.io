@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## jekyll-theme-H2O
 
 基于Jekyll的博客主题模板，简洁轻量。
@@ -453,3 +454,6 @@ Any types of contribution are welcome. Thanks.
 ### License 许可证
 
 Jekyll-Theme-H2O is licensed under [MIT](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/LICENSE).
+=======
+#EnochZg
+>>>>>>> dd8973ea90018a2773c529e672468fb7c9fc1732
