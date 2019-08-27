@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '张以诺的个人博客'
+title: '平也的个人博客'
 description: '后端工程师'
-keyword: '张以诺, 张以诺的独立博客, PHP, 读书'
+keyword: '平也', 平也的独立博客, PHP, 读书'
 url: '' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -17,8 +17,8 @@ footer:
   since: 2019
 
 # Author 配置博主信息
-author: '张以诺'
-nickname: '厂长'
+author: '平也'
+nickname: '平也'
 bio: '后端工程师'
 avatar: '/assets/img/profile.png'
 
